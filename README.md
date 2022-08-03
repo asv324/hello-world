@@ -1,2 +1,2 @@
 # hello-world
-My first repository just for learning how things work
+My **first** repository just for learning how things work
